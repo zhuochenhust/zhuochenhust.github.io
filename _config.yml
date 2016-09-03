@@ -1,6 +1,6 @@
 # Site settings
-title: "Su Yan's Blog"
-email: suyan0830@gmail.com
+title: "Zhuo Chen's Blog"
+email: zhuochenuva@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   "Su Yan's Tech Blog"
 baseurl: "" # the subpath of your site, e.g. /blog/
