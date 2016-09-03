@@ -1,0 +1,50 @@
+# Site settings
+title: "Su Yan's Blog"
+email: suyan0830@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  "Su Yan's Tech Blog"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yansu.org" # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
+author: Su Yan
+twitter:
+  username: masonsuyan
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+
+# Social account
+twitter: masonsuyan
+# weibo:    ID
+github: suyan
+# codepen:  username
+# dribbble: username
+
+# avatar and Favicon
+avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+
+# disqus config
+disqus:
+  shortname: suyan-en
+
+# google analytics config
+ga:
+  id: UA-54767140-2
+  url: yansu.org
+
+# Build settings
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+sass:
+  style: compressed
+
+# Jekyll Plugin
+# https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
