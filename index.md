@@ -2,84 +2,119 @@
 layout: post
 ---
 
-## 给你的情书
+## Profile
 
-很久没有写过东西了，也很久没有喜欢一个人了。
-
-当认真谈过一段感情，最后却分手了，后来自己会很难再去喜欢别人，你不想花时间也不想去了解。就好比写一篇文章快写完了，但老师说你字潦草把作业撕了让你重新写一遍。虽然你记得开头和内容但你也懒得写了，因为一篇文章花光了你所有精力，只差一个结尾，你却要从头来过。一直没有把谈恋爱提上日程，早已习惯了家，学校之间两点一线的生活，日常也有兄弟朋友支持和陪伴，每天充实而有效率，这样的生活一度让我上瘾，我也一度爱上了这种节奏。我可能失去了主动去爱一个人的冲动或者能力，于是我只有选择积极地努力着让自己变得更优秀，相比几年前，不论是对人或者对事，自己都成熟了很多，这一切都是为了在未来的某一天，当我遇到主在我生命中安排的那段缘分时，我可以自信地对那个她说：“我准备好了。”
-
-对于那个她，我期待又紧张，我期待等待我的是将会是怎样一个女孩；我紧张，我是不是能够给那个女孩她想要的爱。
-
-几年前，我害怕被辜负，几年后，我害怕辜负。
-
-If I should see you，after long years. 
-How should I greet , with tears,with silence.
-假若他日相逢,我将何以致汝?以沉默,以眼泪。
-
-我做足了准备，期待着那个人在未知的某一天降临到我的生命里。
-
-所以如果你问我你之于我意味着什么，我会告诉你：
-当你以伴侣的形式出现在我生命中的时候，就好像在大海中放入了一颗太阳。
-
-最开始的瞬间我不是没有犹豫，我不知道自己是否准备好，我不知道自己是否爱眼前这个女孩，我不知道自己是否承担的起一个女孩子这样真挚和纯真的爱。没想到你用最短的时间让我了解了你，让我喜欢上了你，让我爱上了你。
-
-我说：“或许我没准备好。”
-
-你说：“你准备好了。”
-
-我回头看向上帝，
-
-他说：“你准备好了。”
-
-于是我牵住了你。
-
-你是上帝赐我的福音。
-
-有你的日子里，很快我就找回了久违的爱一个人的感觉，而我之前为这一刻所作出的全部准备仿佛都派上了用场。最初对于这段感情，我心中仍有两把枷锁，一把叫做空间，一把叫做物质。然后你用追随打开了第一把锁，你告诉你会追随我的脚步，去到我在的地方；接着你用相信打开了最后一把锁，你相信我一定会给的了你物质上的幸福，即使那或许不是你所追求的。
-
-得爱人如此，夫复何求。
-
-为了和我在一起，你放下女孩子的面子，鼓起勇气告诉我；为了见到我，你也不惜金钱和精力，最快地办好了签证。为了爱我，你把自己融进了我的生活，我怎么能不爱你，你就是我的小太阳。
-
-曾经和新教的朋友聊天时说过，如果我得到了属于我的爱情，我可能会跟随主的脚步。希望未来的那一天，教堂中神父托着圣经，认真地向我们提问，而我们毫不犹豫地给予他最笃定地回答，我能真正地从你的爸爸手中接过他生命中的天使，并用余生好好爱她。或许那一天我会真正的体会到王小波先生写给李银河女士的那句话：“爱你就像爱生命”。托马斯摩尔曾构建了一个世界，而我也想构建一个类似的世界，总有一天我们会生活在那里，那里面有你有我，有你的青春，也有我的年华。你永远融到我的生命里了，我推不出来你，自己也抽离不去，就这样吧，于是你安静的留在了那里。在那里，你不会发福不会老去不会带着家长里短柴油米醋的气息，你永远年轻永远漂亮穿着长裙站在那里，对着我，笑靥如花。
-
-蒋昌建在演讲中讲过一首诗，这首诗描述了那个年代的年轻人的爱情，我一直都把它存在笔记里：
-我希望，她和我一样， 
-胸中有血，心头有伤。 
-不要什么花好月圆， 
-不要什么笛短箫长。 
-要穷，穷得象茶， 
-苦中一缕清香， 
-要傲，傲得象兰， 
-高挂一脸秋霜。 
-我们一样，就敢在暗夜里， 
-徘徊在白色的坟场， 
-去倾听鸱鸺的惨笑， 
-追逐那飘移的荧光。 
-我们一样，就敢在森林里， 
-打下通往前程的标桩。 
-哪管枯枝上，猿伸长臂， 
-何惧石丛里，蛇吐绿芒。 
-我们一样，就敢随着大鲸， 
-划起一叶咿哑的扁舟， 
-去探索那遥远的海港， 
-任凭风如丧钟，雾似飞网。 
-我们一样，就敢在泥沼里， 
-种下松籽，要它成梁。 
-我们一样，就敢挽起朝晖， 
-踩着鲜花，走向死亡。 
-虽然，我只是一粒芝麻， 
-被风吹离了茎的故乡。 
-远别云雀婉转的歌喉， 
-远别玫瑰迷人的芬芳。 
-我坚信，也有另一颗芝麻， 
-躺在风风雨雨的大地上。 
-我们虽未相识，但我终极乐观， 
-因为我们顶的是同一轮太阳。 
-就这样，在遮天的星群里， 
-去寻找那闪烁的微光。 
-就这样，在蔽日的密林中， 
-去辩认那片模糊的叶掌。 
+Zhuo Chen
+Bachelor of Engineering (BE), of HUST. Computer Engineering Master of University of Virginia
+466010570@qq.com
+Summary
+· Familiar with Java
+· Hands-on experience with front-ends and back-ends development
+· Good communication skills with co-workers, self-motivated in a quickly changing environment
+Experience
+Android Engineer Intern at BiTeng Mobile Technology
+June 2015 - August 2015 (3 months)
+Developed an app to manage contacts on users' phone. This app can show the contact list, phone-call record
+list, text message list, text UI and dialing interface with the keyboard.
+Developed a local music player app. This media player can get the music playing information by system
+media library; the music can pause, stopped and users can also play next song
+Software Engineering Intern at Fiberhome Telecommunication Tech
+July 2014 - August 2014 (2 months)
+Participated in developing the back-end of website and wrote software technical document. Familiar with the
+Spring and hibernate
+Assisted to complete unit testing
+Data Analyst Assistant at Wuhan National Laboratory for Optoelectronics
+February 2014 - May 2014 (4 months)
+Realized Talbot effect in the frequency domain by applying arrayed waveguide grating (AWG), recorded
+experiment results and processing and analyzed the results.
+Skills & Expertise
+Java
+Python
+R
+Matlab
+Android Development SQL
+C
+Shell
+SQLite
+   Page1
+JavaScript Sockets Eclipse HTML CSS
+XML JSON LaTeX Git MyEclipse jQuery Bootstrap SASS
+Education
+University of Virginia
+Master of Engineering (MEng), Computer Engineering, 2015 - 2017
+Huazhong University of Science and Technology
+Bachelor of Engineering (B.Eng.), Electrical and Computer Engineering, Optical Communication, 2011 - 2015 Grade: 3.6
+University of Michigan-Dearborn
+Electrical and Computer Engineering, 2013 - 2014
+ Grade: 3.6
+Languages
+English Chinese
+Projects
+(Elementary proficiency) (Native or bilingual proficiency)
+  SpatialHadoop MapReduce Layer Extension and Performance Analysis
+March 2016 to Present Members:Zhuo Chen
+Presented a SpatialHadoop system with a MapReduce layer extension for achieving better query performance. The evaluation results shows that the Spatial-Hadoop with MapReduce layer extension archive 20 to 40 percentage time efficiency improvement comparing with the original SpatialHadoop for kNN query operation
+SQL, KNN Query, Java Programming. Experiments tested on Amazon EMR service
+Hybrid Application Development for Sports Social
+June 2016 to Present Members:Zhuo Chen
+Page2
+Implemented registration and login business, adding friends, club group chat and friends private chat(text, voice message, picture, location), sharing information by sports group, sports module can record the speed of running and GPS position, online market achieved by webview
+IOC Framework, ThinkAndroid, xUtils, Asmack, Gradle, Baidu Map SDK, Openfire, Tomcat, Spark, MySQL, SQLite, XML, JSP \& Servlet, HTML, CSS, and JavaScript
+Minimal OS
+February 2016 to Present Members:Zhuo Chen
+Implemented a 16bit x86 Operating System kernel from scratch by C. It consists of system calls, program execution, file system with multilayer subdirectories, a command-line shell, multiprocessing, and IPC.
+Hands-on operating systems project experience which is developed and tested on Amazon EC2 service.
+Nine-Grid Diary Web Development
+June 2015 to Present Members:Zhuo Chen
+Presented a Nine-Grid Diary Web which can record people's life conveniently. Nine-Grid Diary is composed of nine blocks; users can fill contents at each block to finish a complete diary. This web applies DIV
+and CSS to implement layout. Implemented register by Ajax, eliminated Chinese messy code by filter configuration. Additionally, this project implemented thumbnail generation and image rotation.
+Java Web, Ajax, jQuery, MySQL, HTML, CSS
+Cache Aware Processing-in-Memory Architecture
+March 2016 to Present Members:Zhuo Chen
+Our team proposes a new PIM architecture to decides whether to execute PIM operations in memory or processor depending on the locality of data. We present a tool, which analyzes the locality of the memory accesses for the different routines in an application.
+Implemented pintools to identify regions of operations in the code that can be offload to PIM, figure out what fraction gets reused in the program after the PIM operation completes.
+Local Music Player
+June 2015 to Present Members:Zhuo Chen
+Developed a local music player app based on Android four core components, in order to achieve media player by MediaPlayer object. This media player can get the music information from the system media library; the music can be paused, stopped and users can also play the next song.
+1. The system activates asynchronous task by service, and using ContentProvider to access local media library in working thread and return the data by CallBack.
+2. Users can stop, pause the music and users can also play next song. I achieved these functions by service. 3. The system can send notification by Notification-Skill, and users can stop, play, pause songs in the
+notification bar.
+4. The system can monitor the SD card and send broadcast during music playing to update seek bar.
+Page3
+Contact Managing App
+June 2015 to Present Members:Zhuo Chen
+Developed an app to manage contacts on users’ phone. This app can show the contact list, phone-call record list, text message list, text UI and dialing interface with the keyboard.
+1. Building the frame of app by ViewPager + Fragment + ListView + RadioGroup.
+2. Building contacts interface by ContentProvider, GridView, and CircleImageView.
+3. Linking ViewPager by ContentProvider and RadioButton.
+4. Realizing conversation list by ContentProvider. Additionally, realizing split chat interface by getType
+method of ListView.
+5. Realizing No Spam SMS by Broadcast Receiver. 6. Realizing interception of phone call by AIDL.
+Simulated Ticket Booking App
+July 2014 to Present Members:Zhuo Chen
+Built a simulated ticket booking app which enables users to register, log in, and check the flights by selecting the departure city, destination, and the time of the flight. (The database was written by me, it is just for simulating a flight ticket booking system). In this project, I used some basic android knowledge, specified as the following:
+1. Showing flights lists by ViewPager + Fragment + ListView + ActionBar.
+2. Flight data paging display by asynchronous loading.
+3. Achieving guide page by using ActionBar, and also using SearchView to achieve searching filter.
+4. Using ContestMenu achieving long pressing event handling, and send the data to other android fragments
+by Intent.
+5. Filling out flights searching data by Dialog and PopuMenu, and changing the effect of display dynamically
+by selector and style.
+6. Finishing newbie guide page by ViewPager, ImageView, custom view, and import the third party frame
+ViewPagerIndicator.
+7. Achieving ads banner by handlers, ViewPager, image compression.
+8. Recording system using status, phone number users using to login by SharedPreferences.
+Android Memo
+June 2016 to Present Members:Zhuo Chen
+Developed a memo based on AndroidUI, SQLite database to record users’ personal events.
+1. Listing data by ListView, Image selection by GridView, and it can also using the phone camera to take
+pictures.
+2. Achieving guide page by using ActionBar, and also using SearchView to achieve searching filter. 3. Using SQLite database to store data.
+ Page4
+Honors and Awards
+Interdisciplinary Contest In Modeling Meritorious Winner
+February 2015
+I am the leader of our team and we are the meritorious winner.
 
 
 ## 博客平台
