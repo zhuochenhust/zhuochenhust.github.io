@@ -6,7 +6,7 @@ layout: post
 
 Zhuo Chen
 Bachelor of Engineering (BE), of HUST. Computer Engineering Master of University of Virginia
-466010570@qq.com
+zc6yn@virginia.edu
 
 Summary
 · Familiar with Java
