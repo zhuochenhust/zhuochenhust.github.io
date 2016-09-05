@@ -4,7 +4,7 @@ layout: post
 
 ## Profile
 
-Zhuo Chen \\
+Zhuo Chen </br>
 Bachelor of Engineering (BE), of HUST. Computer Engineering Master of University of Virginia
 zc6yn@virginia.edu
 
