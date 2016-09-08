@@ -1,3 +1,11 @@
+---
+layout: post
+title: 分布式哈西表
+category: 技术
+tags: 算法
+keywords: 算法,Hash,Algorithm
+---
+
 ##分布式哈希表(DHT: Distributed Hash Table)
 我们将散列表放在一个机器的内存里，当散列表比较小时候，没有问题，但如果这张散列表超过了一台机器的内存时候，或者当存储在一台机器上时候，这台机器挂掉了，那所有的数据都会消失……
 那现在我们又该怎么做呢？
