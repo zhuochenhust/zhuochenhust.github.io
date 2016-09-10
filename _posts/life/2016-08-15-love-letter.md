@@ -18,7 +18,7 @@ description: love letter for gf
 
 If I should see you，after long years. \\
 How should I greet , with tears,with silence.\\
-假若他日相逢,我将何以致汝?以沉默,以眼泪。\\
+假若他日相逢,我将何以致汝?以沉默,以眼泪。
 
 我做足了准备，期待着那个人在未知的某一天降临到我的生命里。
 
